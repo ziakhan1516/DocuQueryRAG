@@ -29,6 +29,8 @@ pip install -r requirements.txtt
 ## Run the app with the default Mistral model:
 ```bash
 pip install -r requirements.txtt
+
 python app.py --model mistral:7b
+
 For changing the Model you just have to give the model name here.
 ```
