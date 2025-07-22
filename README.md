@@ -1,5 +1,8 @@
 # DocuQueryRAG
 
+![Project_RAG 1 drawio](https://github.com/user-attachments/assets/2a79f6ae-f857-42cd-a2c0-7ade6dd0ff3a)
+
+
 **DocuQueryRAG** is a Retrieval-Augmented Generation (RAG) system for question answering over documents (PDF, DOCX, PPTX, TXT). It uses sentence embeddings, FAISS vector search, and local LLMs (like Mistral via Ollama) to provide context-aware answers from uploaded files.
 
 
@@ -34,3 +37,16 @@ python app.py --model mistral:7b
 
 For changing the Model you just have to give the model name here.
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
