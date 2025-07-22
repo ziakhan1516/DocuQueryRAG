@@ -22,6 +22,7 @@
 ```bash
 git clone https://github.com/yourusername/DocuQueryRAG.git
 cd DocuQueryRAG
+```
 
 ```bash
 pip install -r requirements.txtt
