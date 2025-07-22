@@ -1,0 +1,7 @@
+gradio
+sentence-transformers
+faiss-cpu
+pdfplumber
+python-docx
+python-pptx
+numpy
